@@ -8,7 +8,7 @@
 
 ## 游戏截图
 
-> 截图待添加
+![Finger Garden Screenshot](./screenshot.png)
 
 ## 玩法说明
 
