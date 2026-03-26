@@ -1,0 +1,23 @@
+export const THEME = {
+  skyTop: "#061e22",
+  skyMid: "#0f3641",
+  skyBottom: "#0c1d2c",
+  glowA: "rgba(87, 255, 197, 0.24)",
+  glowB: "rgba(87, 165, 255, 0.22)",
+  glowC: "rgba(255, 188, 87, 0.18)",
+  floor: "#112e31",
+  floorEdge: "#2f7f68",
+  vine: "#78d597",
+  spore: "#ff8a6f",
+  pathMain: "#86ffd4",
+  pathTail: "#4fcf98",
+  playerCore: "#d2ff8c",
+  playerGlow: "rgba(199, 255, 133, 0.42)",
+  shield: "#9ce7ff",
+  pollen: "#ffe890",
+  hudBg: "rgba(6, 20, 30, 0.46)",
+  hudEdge: "rgba(140, 250, 223, 0.34)",
+  textMain: "#e4fff7",
+  textSub: "#9dd8cb",
+  warn: "#ff8f6c"
+} as const;

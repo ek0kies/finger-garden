@@ -1,0 +1,15 @@
+:root {
+  --fg-text-main: #e4fff7;
+  --fg-text-soft: #9acfc3;
+  --fg-panel: rgba(6, 24, 31, 0.58);
+  --fg-panel-edge: rgba(138, 247, 214, 0.28);
+  --fg-card: rgba(10, 33, 41, 0.56);
+  --fg-primary: #8dffcb;
+  --fg-primary-strong: #5cdbac;
+  --fg-secondary: #a8e8ff;
+  --fg-danger: #ff9a74;
+  --fg-shadow: 0 18px 46px rgba(2, 12, 18, 0.46);
+
+  --font-title: "STZhongsong", "Songti SC", "Noto Serif SC", serif;
+  --font-body: "Avenir Next", "PingFang SC", "Hiragino Sans GB", sans-serif;
+}
